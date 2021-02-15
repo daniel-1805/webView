@@ -80,7 +80,7 @@
                 android:layout_weight="1"
                 android:backgroundTint="#3E50B4"
                 android:textAlignment="center"
-                app:icon="@drawable/ic_baseline_compare_arrows_24" />
+                app:icon="@drawable/ic_baseline_refresh_24" />
 
             <Button
                 android:id="@+id/stop"
