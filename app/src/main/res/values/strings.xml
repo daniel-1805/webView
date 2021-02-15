@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">myConversor</string>
+
+    <array name="listMeasure">
+
+        <item>metros</item>
+        <item>yardas</item>
+        <item>pulgadas</item>
+        <item>kilometros</item>
+
+    </array>
+</resources>
